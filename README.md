@@ -2,33 +2,33 @@
 
 A modern, artistic React application implementing a complete login system with Multi-Factor Authentication (MFA), signup flow, and role-based dashboard. Features stunning glassmorphism UI design with animated backgrounds, comprehensive form validation, and robust Cypress testing.
 
-## 🎨 Features
+## Features
 
-- **🔐 Secure Authentication Flow**
+- ** Secure Authentication Flow**
   - Email and password validation
   - Multi-Factor Authentication (MFA) with 6-digit code
   - Complete signup flow with validation
   - Role-based access control (read-only vs read-write)
 
-- **🎭 Artistic UI Design**
+- ** Artistic UI Design**
   - Glassmorphism design with backdrop blur effects
   - Animated geometric backgrounds with floating shapes
   - Color-themed pages (Blue/Purple, Green/Emerald, Orange/Amber, Purple/Violet)
   - Smooth animations and transitions
   - Responsive design with Tailwind CSS
 
-- **🧪 Comprehensive Testing**
+- ** Comprehensive Testing**
   - Cypress E2E tests for critical user flows
   - Form validation testing
   - Complete login-to-dashboard flow testing
 
-## 📋 Prerequisites
+## Prerequisites
 
 - **Node.js**: Version 14 or higher (LTS recommended)
 - **npm**: Included with Node.js
 - **Git**: To clone the repository
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository:**
    ```bash
@@ -41,7 +41,7 @@ A modern, artistic React application implementing a complete login system with M
    npm install
    ```
 
-## 🏃‍♂️ How to Run the Application
+## How to Run the Application
 
 ### Development Mode
 ```bash
@@ -55,7 +55,7 @@ npm run build
 ```
 Creates an optimized production build in the `build` folder.
 
-## 🧪 How to Run the Tests
+## How to Run the Tests
 
 ### Cypress E2E Tests
 
@@ -97,7 +97,7 @@ The test suite includes **3 meaningful test cases**:
    - Confirms dashboard access after authentication
    - Validates role-based access control
 
-## 🎯 Demo Credentials
+## Demo Credentials
 
 For testing purposes, use these credentials:
 - **Email**: `user@example.com`
@@ -132,7 +132,7 @@ login-mfa/
 └── package.json             # Dependencies and scripts
 ```
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **React 18** - Modern React with hooks
 - **Tailwind CSS** - Utility-first CSS framework
@@ -140,7 +140,7 @@ login-mfa/
 - **Custom CSS Animations** - Artistic background effects
 - **Glassmorphism Design** - Modern UI design pattern
 
-## 📝 Available Scripts
+## Available Scripts
 
 - `npm start` - Runs the app in development mode
 - `npm run build` - Builds the app for production
@@ -149,13 +149,13 @@ login-mfa/
 - `npm run cypress:run` - Runs Cypress tests in headless mode
 - `npm run test:e2e` - Alternative command for running E2E tests
 
-## 🔗 GitHub Repository
+## GitHub Repository
 
 **Repository**: https://github.com/RohitSingh5632/login-mfa
 
 ---
 
-## 📞 Contact
+## Contact
 
 **Developer**: Rohit Singh  
 **Repository**: https://github.com/RohitSingh5632/login-mfa
