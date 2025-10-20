@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # login-mfa
 =======
 # Login with MFA
