@@ -104,7 +104,7 @@ For testing purposes, use these credentials:
 - **Password**: `Password123!`
 - **MFA Code**: `123456`
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 login-mfa/
