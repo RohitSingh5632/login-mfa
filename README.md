@@ -1,5 +1,3 @@
-# login-mfa
-=======
 # Login with MFA
 
 A simple React application implementing a login system with Multi-Factor Authentication (MFA) and basic access control.
